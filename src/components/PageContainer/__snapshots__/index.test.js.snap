@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageContainer renders without errors 1`] = `
+<div
+  className="pageContainer"
+>
+  <div>
+    Children
+  </div>
+</div>
+`;

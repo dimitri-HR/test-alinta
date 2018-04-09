@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders without errors 1`] = `
+<div
+  className="pageContainer"
+>
+  <div
+    className="container"
+  >
+    <h3>
+      List of movie characters grouped by actor:
+    </h3>
+    <button
+      onClick={[Function]}
+    >
+      Fetch data
+    </button>
+    <div />
+  </div>
+</div>
+`;

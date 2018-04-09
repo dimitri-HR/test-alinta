@@ -1,0 +1,19 @@
+/* 1. Set root size (1rem) = 10px */
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* [1] */
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    background-color: rgb(249, 249, 249);
+}

@@ -1,0 +1,17 @@
+.pageContainer {
+    margin: 0 auto;
+    max-width: 104rem;
+    padding: 1.6rem;
+}
+
+@media only screen and (min-width: 500px) {
+    .pageContainer {
+        padding: 3.2rem;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .pageContainer {
+        padding: 6.4rem;
+    }
+}

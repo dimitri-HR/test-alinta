@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActorList renders without errors 1`] = `
+<div>
+  <p>
+    Actor1
+  </p>
+  <ul>
+    <li>
+      Character1
+    </li>
+    <li>
+      Character2
+    </li>
+  </ul>
+  <p>
+    Actor2
+  </p>
+  <ul>
+    <li>
+      Character3
+    </li>
+    <li>
+      Character4
+    </li>
+  </ul>
+</div>
+`;

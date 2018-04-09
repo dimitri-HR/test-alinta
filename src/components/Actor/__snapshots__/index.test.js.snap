@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Actor renders without errors 1`] = `
+Array [
+  <p>
+    Actor
+</p>,
+  <ul />,
+]
+`;
